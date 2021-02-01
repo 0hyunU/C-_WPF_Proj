@@ -1,0 +1,30 @@
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe.config
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.pdb
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csprojAssemblyReference.cache
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form1.resources
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form2.resources
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Properties.Resources.resources
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csproj.GenerateResource.cache
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.exe
+C:\Users\user_pc\source\repos\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.pdb
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe.config
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.pdb
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csprojAssemblyReference.cache
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form1.resources
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form2.resources
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Properties.Resources.resources
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csproj.GenerateResource.cache
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.exe
+C:\Users\user_pc\Desktop\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.pdb
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe.config
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.exe
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\bin\Debug\SadariAnimation.pdb
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csprojAssemblyReference.cache
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form1.resources
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Form2.resources
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.Properties.Resources.resources
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.csproj.GenerateResource.cache
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.exe
+C:\Users\user_pc\Desktop\새 폴더\실습과제3_유영현_2016112181\Problem4\SadariAnimation\SadariAnimation\obj\Debug\SadariAnimation.pdb
